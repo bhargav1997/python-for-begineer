@@ -1,6 +1,6 @@
-Let's move forward to Day 10 of our Python learning journey, where we'll explore even more advanced topics and examples:
+Let's move forward to Day 11 of our Python learning journey, where we'll explore even more advanced topics and examples:
 
-**Day 10: Advanced Python Concepts and Project Ideas**
+**Day 11: Advanced Python Concepts and Project Ideas**
 
 1. **Web Development with Django**: Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
